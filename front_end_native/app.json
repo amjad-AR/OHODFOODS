@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Gluten Free Store",
+    "slug": "front_end_native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F5EAB9"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.glutenfreestore.app",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {}
+  }
+}
